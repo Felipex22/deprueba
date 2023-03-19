@@ -2,3 +2,7 @@ Hola y buenos dias.
 
 Este es un documento de prueba que se creo con la idea de poner en practica los 
 conocimientos adquidiros hasta el momento sobre git y github.
+
+Se supone que ahora este documento deberia estar en github. 
+
+Gracias por su atencion
